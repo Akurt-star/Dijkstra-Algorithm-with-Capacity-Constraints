@@ -31,7 +31,7 @@ We are given a directed network with:
 
 
 ## Output of the main code
-   When you run the code the following output will show in your screen. You can use this code so easily. You have to change only edges, nodes, capacities, costs etc. based on your problem.
+   When you run the code the following output will shown in your screen. You can use this code so easily. You have to change only edges, nodes, capacities, costs etc. based on your problem.
    <img width="1067" height="778" alt="image" src="https://github.com/user-attachments/assets/3e06ff31-dc81-4941-93ca-cfd21076a8ff" />
 
 
